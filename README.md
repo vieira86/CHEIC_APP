@@ -1,15 +1,12 @@
 # CHEMISTIK APP
 <div align="left">
-<img src="https://github.com/vieira86/Quimistika_new/assets/85266231/9af4fac1-5681-47da-ab52-a9e650d61e7a.png" width="500px" />
+<img width="688" alt="capa_app" src="https://github.com/vieira86/CHEIC_APP/assets/85266231/3b223e18-802c-4a28-b0a0-e07b30fadc1e">
 </div>
 
 
 ## ABOUT:
 Chemistik is an innovative platform for natural product analysis that automates the simplex-lattice mixture design. Its goal is to analyze the relative intensities obtained from the mass spectrum of complex natural matrices. This consolidated platform in the form of an application programming interface (API) recognizes the molecular annotations present in the samples and assigns their respective intensities. This enables the construction of models that provide significant insights into the molecules present in the extracts. The platform aims to optimize the mixture design process involving mass spectrometry, which is often complex and requires a detailed analysis of these spectra.
 
-<div align="left">
-<img src="https://github.com/vieira86/Quimistika_new/assets/85266231/ee1158cb-f766-4814-bac9-ff3da548b512.png" width="700px" />
-</div>
 
 ## HOSTED:
 https://chemistik.streamlit.app
