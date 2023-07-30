@@ -1,6 +1,6 @@
 # CHEMISTIK APP
 <div align="left">
-<img width="688" alt="capa_app" src="https://github.com/vieira86/CHEIC_APP/assets/85266231/3b223e18-802c-4a28-b0a0-e07b30fadc1e">
+<img width="488" alt="capa_app" src="https://github.com/vieira86/CHEIC_APP/assets/85266231/3b223e18-802c-4a28-b0a0-e07b30fadc1e">
 </div>
 
 
