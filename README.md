@@ -9,7 +9,7 @@ CHEIC - CHEMICAL IMAGE CLASSIFICATOR.
 
 
 ## HOSTED:
-https://cheic.streamlit.app
+https://cheic-app.streamlit.app
 
 ## LICENSE
 
